@@ -9,5 +9,6 @@
     <option name="requirementsPath" value="C:\Users\Dżejnek\Desktop\Hackaton-ez-\test.py" />
     <option name="versionSpecifier" value="Strong equality (==x.y.z)" />
     <option name="removeUnused" value="true" />
+    <option name="keepMatchingSpecifier" value="false" />
   </component>
 </module>
