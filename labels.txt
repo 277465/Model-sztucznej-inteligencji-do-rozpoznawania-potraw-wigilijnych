@@ -1,0 +1,9 @@
+label_name,label_id
+barszcz czerwony,1
+bigos,2
+kutia,3
+makowiec,4
+pierniki,5
+pierogi,6
+sernik,7
+zupa grzybowa,8
